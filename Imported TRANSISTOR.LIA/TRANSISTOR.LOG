@@ -1,0 +1,49 @@
+PCAD Importer Log
+Project : TRANSISTOR.LibPkg
+
+Section : C:\Users\Dev1ne\Downloads\Telegram Desktop\TRANSISTOR.LIA
+    Section : PCB Library - TRANSISTOR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 192_N On Line 252
+            Warning - 1 : Skipping Token 235_N On Line 291
+            Warning - 1 : Skipping Token attachedSymbol On Line 365
+            Warning - 1 : Skipping Token attachedSymbol On Line 387
+            Warning - 1 : Skipping Token attachedSymbol On Line 409
+            Warning - 1 : Skipping Token attachedSymbol On Line 431
+            Warning - 1 : Skipping Token attachedSymbol On Line 454
+        EndSection
+
+        Section : Import Messages
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+        EndSection
+    EndSection
+
+    Section : SCH Library - TRANSISTOR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token viaStyleDef On Line 53
+            Warning - 1 : Skipping Token multiLayer On Line 159
+            Warning - 1 : Skipping Token layerContents On Line 173
+            Warning - 1 : Skipping Token multiLayer On Line 190
+            Warning - 1 : Skipping Token layerContents On Line 195
+            Warning - 1 : Skipping Token multiLayer On Line 212
+            Warning - 1 : Skipping Token layerContents On Line 217
+            Warning - 1 : Skipping Token multiLayer On Line 236
+            Warning - 1 : Skipping Token layerContents On Line 241
+            Warning - 1 : Skipping Token defaultPinDes On Line 260
+            Warning - 1 : Skipping Token defaultPinDes On Line 268
+            Warning - 1 : Skipping Token defaultPinDes On Line 276
+            Warning - 1 : Skipping Token defaultPinDes On Line 299
+            Warning - 1 : Skipping Token defaultPinDes On Line 307
+            Warning - 1 : Skipping Token defaultPinDes On Line 315
+        EndSection
+
+        Section : Generating SCH Library - TRANSISTOR.SchLib
+        EndSection
+    EndSection
+EndSection
