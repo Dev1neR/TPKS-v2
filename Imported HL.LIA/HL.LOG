@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : HL.LibPkg
+
+Section : C:\Users\Dev1ne\Downloads\Telegram Desktop\HL.LIA
+    Section : PCB Library - HL.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token HL On Line 104
+            Warning - 1 : Skipping Token attachedSymbol On Line 137
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - HL.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token viaStyleDef On Line 23
+            Warning - 1 : Skipping Token multiLayer On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token defaultPinDes On Line 111
+            Warning - 1 : Skipping Token defaultPinDes On Line 118
+        EndSection
+
+        Section : Generating SCH Library - HL.SchLib
+        EndSection
+    EndSection
+EndSection

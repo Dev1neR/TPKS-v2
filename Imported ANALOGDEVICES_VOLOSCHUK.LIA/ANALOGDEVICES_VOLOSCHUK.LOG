@@ -1,0 +1,94 @@
+PCAD Importer Log
+Project : ANALOGDEVICES_VOLOSCHUK.LibPkg
+
+Section : C:\Users\Dev1ne\Downloads\Telegram Desktop\ANALOGDEVICES_VOLOSCHUK.LIA
+    Section : PCB Library - ANALOGDEVICES_VOLOSCHUK.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 193
+            Warning - 1 : Skipping Token defaultPinDes On Line 194
+            Warning - 1 : Skipping Token defaultPinDes On Line 195
+            Warning - 1 : Skipping Token defaultPinDes On Line 196
+            Warning - 1 : Skipping Token defaultPinDes On Line 197
+            Warning - 1 : Skipping Token defaultPinDes On Line 198
+            Warning - 1 : Skipping Token defaultPinDes On Line 199
+            Warning - 1 : Skipping Token defaultPinDes On Line 200
+            Warning - 1 : Skipping Token defaultPinDes On Line 201
+            Warning - 1 : Skipping Token defaultPinDes On Line 202
+            Warning - 1 : Skipping Token defaultPinDes On Line 203
+            Warning - 1 : Skipping Token defaultPinDes On Line 204
+            Warning - 1 : Skipping Token defaultPinDes On Line 205
+            Warning - 1 : Skipping Token defaultPinDes On Line 206
+            Warning - 1 : Skipping Token defaultPinDes On Line 207
+            Warning - 1 : Skipping Token defaultPinDes On Line 208
+            Warning - 1 : Skipping Token defaultPinDes On Line 209
+            Warning - 1 : Skipping Token defaultPinDes On Line 210
+            Warning - 1 : Skipping Token defaultPinDes On Line 211
+            Warning - 1 : Skipping Token defaultPinDes On Line 212
+            Warning - 1 : Skipping Token defaultPinDes On Line 213
+            Warning - 1 : Skipping Token defaultPinDes On Line 214
+            Warning - 1 : Skipping Token defaultPinDes On Line 215
+            Warning - 1 : Skipping Token defaultPinDes On Line 216
+            Warning - 1 : Skipping Token DIGITALMICRO On Line 230
+            Warning - 1 : Skipping Token GUCHNOMOVEC On Line 480
+            Warning - 1 : Skipping Token KONDPOSTEMK On Line 507
+            Warning - 1 : Skipping Token STABILITRON On Line 532
+            Warning - 1 : Skipping Token attachedSymbol On Line 591
+            Warning - 1 : Skipping Token attachedSymbol On Line 633
+            Warning - 1 : Skipping Token attachedSymbol On Line 653
+            Warning - 1 : Skipping Token attachedSymbol On Line 673
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ANALOGDEVICES_VOLOSCHUK.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token padStyleDef On Line 53
+            Warning - 1 : Skipping Token viaStyleDef On Line 63
+            Warning - 1 : Skipping Token multiLayer On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 138
+            Warning - 1 : Skipping Token multiLayer On Line 152
+            Warning - 1 : Skipping Token layerContents On Line 156
+            Warning - 1 : Skipping Token multiLayer On Line 172
+            Warning - 1 : Skipping Token layerContents On Line 176
+            Warning - 1 : Skipping Token multiLayer On Line 192
+            Warning - 1 : Skipping Token layerContents On Line 218
+            Warning - 1 : Skipping Token defaultPinDes On Line 239
+            Warning - 1 : Skipping Token defaultPinDes On Line 247
+            Warning - 1 : Skipping Token defaultPinDes On Line 255
+            Warning - 1 : Skipping Token defaultPinDes On Line 263
+            Warning - 1 : Skipping Token defaultPinDes On Line 272
+            Warning - 1 : Skipping Token defaultPinDes On Line 280
+            Warning - 1 : Skipping Token defaultPinDes On Line 289
+            Warning - 1 : Skipping Token defaultPinDes On Line 298
+            Warning - 1 : Skipping Token defaultPinDes On Line 307
+            Warning - 1 : Skipping Token defaultPinDes On Line 316
+            Warning - 1 : Skipping Token defaultPinDes On Line 325
+            Warning - 1 : Skipping Token defaultPinDes On Line 334
+            Warning - 1 : Skipping Token defaultPinDes On Line 343
+            Warning - 1 : Skipping Token defaultPinDes On Line 352
+            Warning - 1 : Skipping Token defaultPinDes On Line 361
+            Warning - 1 : Skipping Token defaultPinDes On Line 370
+            Warning - 1 : Skipping Token defaultPinDes On Line 379
+            Warning - 1 : Skipping Token defaultPinDes On Line 388
+            Warning - 1 : Skipping Token defaultPinDes On Line 397
+            Warning - 1 : Skipping Token defaultPinDes On Line 406
+            Warning - 1 : Skipping Token defaultPinDes On Line 415
+            Warning - 1 : Skipping Token defaultPinDes On Line 424
+            Warning - 1 : Skipping Token defaultPinDes On Line 488
+            Warning - 1 : Skipping Token defaultPinDes On Line 496
+            Warning - 1 : Skipping Token defaultPinDes On Line 515
+            Warning - 1 : Skipping Token defaultPinDes On Line 523
+            Warning - 1 : Skipping Token defaultPinDes On Line 540
+            Warning - 1 : Skipping Token defaultPinDes On Line 548
+        EndSection
+
+        Section : Generating SCH Library - ANALOGDEVICES_VOLOSCHUK.SchLib
+        EndSection
+    EndSection
+EndSection

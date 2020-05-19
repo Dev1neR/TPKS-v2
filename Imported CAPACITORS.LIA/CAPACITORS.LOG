@@ -1,0 +1,34 @@
+PCAD Importer Log
+Project : CAPACITORS.LibPkg
+
+Section : C:\Users\Dev1ne\Downloads\Telegram Desktop\CAPACITORS.LIA
+    Section : PCB Library - CAPACITORS.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token CAP1 On Line 125
+            Warning - 1 : Skipping Token CAP2 On Line 148
+            Warning - 1 : Skipping Token attachedSymbol On Line 185
+            Warning - 1 : Skipping Token attachedSymbol On Line 207
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - CAPACITORS.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token viaStyleDef On Line 23
+            Warning - 1 : Skipping Token multiLayer On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token multiLayer On Line 114
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token defaultPinDes On Line 133
+            Warning - 1 : Skipping Token defaultPinDes On Line 141
+            Warning - 1 : Skipping Token defaultPinDes On Line 156
+            Warning - 1 : Skipping Token defaultPinDes On Line 164
+        EndSection
+
+        Section : Generating SCH Library - CAPACITORS.SchLib
+        EndSection
+    EndSection
+EndSection

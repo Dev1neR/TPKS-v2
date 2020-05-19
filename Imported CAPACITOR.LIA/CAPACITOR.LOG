@@ -1,0 +1,135 @@
+PCAD Importer Log
+Project : CAPACITOR.LibPkg
+
+Section : C:\Users\Dev1ne\Downloads\Telegram Desktop\CAPACITOR.LIA
+    Section : PCB Library - CAPACITOR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 15_N On Line 708
+            Warning - 1 : Skipping Token 16_N On Line 734
+            Warning - 1 : Skipping Token attachedSymbol On Line 1228
+            Warning - 1 : Skipping Token attachedSymbol On Line 1248
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [CAP100][Primary] associated with PCAD Component [CAP100] has been renamed to PCB FootPrint [CAP100_CAP100(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP1000AP][Primary] associated with PCAD Component [CAP1000AP] has been renamed to PCB FootPrint [CAP1000AP_CAP1000AP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP100RP][Primary] associated with PCAD Component [CAP100RP] has been renamed to PCB FootPrint [CAP100RP_CAP100RP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP1200AP][Primary] associated with PCAD Component [CAP1200AP] has been renamed to PCB FootPrint [CAP1200AP_CAP1200AP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP200][Primary] associated with PCAD Component [CAP200] has been renamed to PCB FootPrint [CAP200_CAP200(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP200RP][Primary] associated with PCAD Component [CAP200RP] has been renamed to PCB FootPrint [CAP200RP_CAP200RP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP250][Primary] associated with PCAD Component [CAP250] has been renamed to PCB FootPrint [CAP250_CAP250(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP250RP][Primary] associated with PCAD Component [CAP250RP] has been renamed to PCB FootPrint [CAP250RP_CAP250RP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP300][Primary] associated with PCAD Component [CAP300] has been renamed to PCB FootPrint [CAP300_CAP300(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP300RP][Primary] associated with PCAD Component [CAP300RP] has been renamed to PCB FootPrint [CAP300RP_CAP300RP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP350][Primary] associated with PCAD Component [CAP350] has been renamed to PCB FootPrint [CAP350_CAP350(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP400][Primary] associated with PCAD Component [CAP400] has been renamed to PCB FootPrint [CAP400_CAP400(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP400AP][Primary] associated with PCAD Component [CAP400AP] has been renamed to PCB FootPrint [CAP400AP_CAP400AP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP450][Primary] associated with PCAD Component [CAP450] has been renamed to PCB FootPrint [CAP450_CAP450(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP500][Primary] associated with PCAD Component [CAP500] has been renamed to PCB FootPrint [CAP500_CAP500(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP500AP][Primary] associated with PCAD Component [CAP500AP] has been renamed to PCB FootPrint [CAP500AP_CAP500AP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP600AP][Primary] associated with PCAD Component [CAP600AP] has been renamed to PCB FootPrint [CAP600AP_CAP600AP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP700AP][Primary] associated with PCAD Component [CAP700AP] has been renamed to PCB FootPrint [CAP700AP_CAP700AP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP800AP][Primary] associated with PCAD Component [CAP800AP] has been renamed to PCB FootPrint [CAP800AP_CAP800AP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CC0805][Primary] associated with PCAD Component [CC0805] has been renamed to PCB FootPrint [CC0805_CC0805(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CC1206][Primary] associated with PCAD Component [CC1206] has been renamed to PCB FootPrint [CC1206_CC1206(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CC1210][Primary] associated with PCAD Component [CC1210] has been renamed to PCB FootPrint [CC1210_CC1210(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CC1812][Primary] associated with PCAD Component [CC1812] has been renamed to PCB FootPrint [CC1812_CC1812(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CC1825][Primary] associated with PCAD Component [CC1825] has been renamed to PCB FootPrint [CC1825_CC1825(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - CAPACITOR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token padStyleDef On Line 53
+            Warning - 1 : Skipping Token padStyleDef On Line 63
+            Warning - 1 : Skipping Token padStyleDef On Line 74
+            Warning - 1 : Skipping Token padStyleDef On Line 85
+            Warning - 1 : Skipping Token padStyleDef On Line 96
+            Warning - 1 : Skipping Token padStyleDef On Line 107
+            Warning - 1 : Skipping Token viaStyleDef On Line 118
+            Warning - 1 : Skipping Token multiLayer On Line 200
+            Warning - 1 : Skipping Token layerContents On Line 204
+            Warning - 1 : Skipping Token multiLayer On Line 220
+            Warning - 1 : Skipping Token layerContents On Line 224
+            Warning - 1 : Skipping Token multiLayer On Line 242
+            Warning - 1 : Skipping Token layerContents On Line 246
+            Warning - 1 : Skipping Token multiLayer On Line 261
+            Warning - 1 : Skipping Token layerContents On Line 265
+            Warning - 1 : Skipping Token multiLayer On Line 283
+            Warning - 1 : Skipping Token layerContents On Line 287
+            Warning - 1 : Skipping Token multiLayer On Line 303
+            Warning - 1 : Skipping Token layerContents On Line 307
+            Warning - 1 : Skipping Token multiLayer On Line 322
+            Warning - 1 : Skipping Token layerContents On Line 326
+            Warning - 1 : Skipping Token multiLayer On Line 342
+            Warning - 1 : Skipping Token layerContents On Line 346
+            Warning - 1 : Skipping Token multiLayer On Line 361
+            Warning - 1 : Skipping Token layerContents On Line 365
+            Warning - 1 : Skipping Token multiLayer On Line 381
+            Warning - 1 : Skipping Token layerContents On Line 385
+            Warning - 1 : Skipping Token multiLayer On Line 400
+            Warning - 1 : Skipping Token layerContents On Line 404
+            Warning - 1 : Skipping Token multiLayer On Line 420
+            Warning - 1 : Skipping Token layerContents On Line 424
+            Warning - 1 : Skipping Token multiLayer On Line 440
+            Warning - 1 : Skipping Token layerContents On Line 444
+            Warning - 1 : Skipping Token multiLayer On Line 462
+            Warning - 1 : Skipping Token layerContents On Line 466
+            Warning - 1 : Skipping Token multiLayer On Line 482
+            Warning - 1 : Skipping Token layerContents On Line 486
+            Warning - 1 : Skipping Token multiLayer On Line 502
+            Warning - 1 : Skipping Token layerContents On Line 506
+            Warning - 1 : Skipping Token multiLayer On Line 524
+            Warning - 1 : Skipping Token layerContents On Line 528
+            Warning - 1 : Skipping Token multiLayer On Line 546
+            Warning - 1 : Skipping Token layerContents On Line 550
+            Warning - 1 : Skipping Token multiLayer On Line 568
+            Warning - 1 : Skipping Token layerContents On Line 572
+            Warning - 1 : Skipping Token multiLayer On Line 590
+            Warning - 1 : Skipping Token layerContents On Line 602
+            Warning - 1 : Skipping Token multiLayer On Line 615
+            Warning - 1 : Skipping Token layerContents On Line 627
+            Warning - 1 : Skipping Token multiLayer On Line 639
+            Warning - 1 : Skipping Token layerContents On Line 651
+            Warning - 1 : Skipping Token multiLayer On Line 664
+            Warning - 1 : Skipping Token layerContents On Line 676
+            Warning - 1 : Skipping Token multiLayer On Line 689
+            Warning - 1 : Skipping Token layerContents On Line 701
+            Warning - 1 : Skipping Token defaultPinDes On Line 716
+            Warning - 1 : Skipping Token defaultPinDes On Line 724
+            Warning - 1 : Skipping Token defaultPinDes On Line 742
+            Warning - 1 : Skipping Token defaultPinDes On Line 750
+        EndSection
+
+        Section : Generating SCH Library - CAPACITOR.SchLib
+            Warning - 0 : PCAD Pattern Graphics [CAP100][Primary] associated with PCAD Component [CAP100] has been renamed to PCB FootPrint [CAP100_CAP100(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP1000AP][Primary] associated with PCAD Component [CAP1000AP] has been renamed to PCB FootPrint [CAP1000AP_CAP1000AP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP100RP][Primary] associated with PCAD Component [CAP100RP] has been renamed to PCB FootPrint [CAP100RP_CAP100RP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP1200AP][Primary] associated with PCAD Component [CAP1200AP] has been renamed to PCB FootPrint [CAP1200AP_CAP1200AP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP200][Primary] associated with PCAD Component [CAP200] has been renamed to PCB FootPrint [CAP200_CAP200(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP200RP][Primary] associated with PCAD Component [CAP200RP] has been renamed to PCB FootPrint [CAP200RP_CAP200RP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP250][Primary] associated with PCAD Component [CAP250] has been renamed to PCB FootPrint [CAP250_CAP250(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP250RP][Primary] associated with PCAD Component [CAP250RP] has been renamed to PCB FootPrint [CAP250RP_CAP250RP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP300][Primary] associated with PCAD Component [CAP300] has been renamed to PCB FootPrint [CAP300_CAP300(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP300RP][Primary] associated with PCAD Component [CAP300RP] has been renamed to PCB FootPrint [CAP300RP_CAP300RP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP350][Primary] associated with PCAD Component [CAP350] has been renamed to PCB FootPrint [CAP350_CAP350(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP400][Primary] associated with PCAD Component [CAP400] has been renamed to PCB FootPrint [CAP400_CAP400(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP400AP][Primary] associated with PCAD Component [CAP400AP] has been renamed to PCB FootPrint [CAP400AP_CAP400AP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP450][Primary] associated with PCAD Component [CAP450] has been renamed to PCB FootPrint [CAP450_CAP450(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP500][Primary] associated with PCAD Component [CAP500] has been renamed to PCB FootPrint [CAP500_CAP500(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP500AP][Primary] associated with PCAD Component [CAP500AP] has been renamed to PCB FootPrint [CAP500AP_CAP500AP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP600AP][Primary] associated with PCAD Component [CAP600AP] has been renamed to PCB FootPrint [CAP600AP_CAP600AP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP700AP][Primary] associated with PCAD Component [CAP700AP] has been renamed to PCB FootPrint [CAP700AP_CAP700AP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAP800AP][Primary] associated with PCAD Component [CAP800AP] has been renamed to PCB FootPrint [CAP800AP_CAP800AP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CC0805][Primary] associated with PCAD Component [CC0805] has been renamed to PCB FootPrint [CC0805_CC0805(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CC1206][Primary] associated with PCAD Component [CC1206] has been renamed to PCB FootPrint [CC1206_CC1206(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CC1210][Primary] associated with PCAD Component [CC1210] has been renamed to PCB FootPrint [CC1210_CC1210(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CC1812][Primary] associated with PCAD Component [CC1812] has been renamed to PCB FootPrint [CC1812_CC1812(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CC1825][Primary] associated with PCAD Component [CC1825] has been renamed to PCB FootPrint [CC1825_CC1825(Primary)].
+        EndSection
+    EndSection
+EndSection
